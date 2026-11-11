@@ -1,0 +1,6 @@
+{
+  "name": "Sunsprout — Warmth & Comfort Sanctuary",
+  "description": "A gentle haven designed to lift your spirits when you are feeling sad, overwhelmed, or lonely, with soothing soundscapes, empathetic comfort letters, joyful micro-interactions, venting shredder, and kind reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
